@@ -33,7 +33,7 @@ const products = [
         'Your ultimate defense against dirt, grime, and household chemicals.Crafted from high-quality latex, these gloves offer exceptional durability, tear-resistance, and flexibility, ensuring they can withstand the toughest cleaning tasks.',
       'brand': '',
       'category': 'Cleaning Supplies',
-      'price': 5,
+      'price': 2,
       'countInStock': 5,
       'rating': 3,
       'numReviews': 12,

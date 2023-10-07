@@ -17,7 +17,8 @@ function ProductScreen( {match} ) {
         <Link to='/' className='btn my-3'>Go Back</Link>
         <Row>
           <Col md={6}>
-            <Image src={product.image} / >
+          Text
+            <Image src={product.image} alt={product.name} fluid/ >
           </Col>
         </Row>
     </div>

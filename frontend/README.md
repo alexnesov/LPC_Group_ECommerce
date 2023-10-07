@@ -16,3 +16,6 @@ npm install react-bootstrap bootstrap
 - go to cdnjs.com
 - type font-awesome
 - in /public --> index.html --> paste the link rel
+
+
+## Sizes
