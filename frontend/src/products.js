@@ -2,7 +2,7 @@ const products = [
     {
       '_id': '1',
       'name': 'Disinfectant product',
-      'image': './images/1.jpg',
+      'image': '/images/1.jpg',
       'description':
         'Keep your surroundings safe and germ-free with our Disinfectant Spray. Multi-Surface Use. Quick-Drying. Leaves your space smelling clean and refreshed, without the harsh chemical odor found in some disinfectants',
       'brand': 'UltraShield',
@@ -15,7 +15,7 @@ const products = [
     {
       '_id': '2',
       'name': 'UltraClean Heavy-Duty Sponge (Pack of 6)',
-      'image': './images/2.jpg',
+      'image': '/images/2.jpg',
       'description':
         'Your trusted companion for tackling tough cleaning tasks with ease. Our sponges are crafted from premium materials to withstand heavy use without falling apart, ensuring they last longer than ordinary sponges.',
       'brand': '',
