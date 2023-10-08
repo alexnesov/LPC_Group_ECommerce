@@ -3,5 +3,5 @@
 While in /frontend
 <br>
 
-```npm intall```
+```npm intall```  
 ```npm start```
