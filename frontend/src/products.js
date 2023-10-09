@@ -8,7 +8,7 @@ const products = [
       'brand': 'UltraShield',
       'category': 'Cleaning Supplies',
       'price': 3.99,
-      'countInStock': 10,
+      'countInStock': 2,
       'rating': 4.5,
       'numReviews': 12,
     },
