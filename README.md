@@ -6,3 +6,9 @@ While in ```/frontend```
 
 ```npm install```  <br>
 ```npm start```
+
+
+
+### Coomand to virtual env sourcing
+
+```source myenv/bin/activate```
